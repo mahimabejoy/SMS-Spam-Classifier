@@ -1,7 +1,5 @@
 # End to end SMS-Spam-Classifier
 
-## Webapp Link : https://smsfilter.herokuapp.com/
-
 📧 Spam Classifier
 
 A machine learning web app that detects spam messages using Natural Language Processing (NLP) techniques and a Naive Bayes model.
@@ -17,9 +15,12 @@ Model training and evaluation using scikit-learn (Gaussian, Multinomial, Bernoul
 Pickle files (model.pkl, vectorizer.pkl) for easy re-use and deployment
 
 Data visualization with Seaborn and Matplotlib (heatmaps, pairplots, histograms)
+
 🗂️ Dataset
 
 Source: spam.csv (public SMS spam collection)
+
+## Webapp Link : https://smsfilter.herokuapp.com/
 
 ![](Capture.JPG)
 
